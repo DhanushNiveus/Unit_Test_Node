@@ -57,5 +57,5 @@ npm test
 
 //add .env file
 
-MONGO_URI=mongodb+srv://dbAdmin:dbAdminNiveus@cluster0.mgjpy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=mongodb+srv://<dbAdmin>:<password>@cluster0.mgjpy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 PORT=3000
